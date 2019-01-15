@@ -8,3 +8,5 @@ THese algorithms are
 4. Random Forests.
 All implementation is done in Python. 
 Group2.pptx and SML_REPORT contains all the results and the conclusions.
+
+My details are on my cover letter.

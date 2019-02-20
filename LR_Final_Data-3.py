@@ -1,7 +1,7 @@
 """ This is the code for Logistic Regression on data.csv file.
     Accuracy achieved was 74.1% using LR model developed from scratch while
     Library implementation achieved 74.6% accuracy.
-    Developed by Parth Rajendra Doshi 1215200012"""
+    
 
 import matplotlib
 import matplotlib.pyplot as plt
